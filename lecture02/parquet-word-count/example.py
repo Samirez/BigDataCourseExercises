@@ -12,5 +12,13 @@ wordcount = None
 with client.read('/alice-in-wonderland.txt', encoding='utf-8') as reader:
     wordcount = Counter(reader.read().split()).most_common(10)
 
+    df = pd.DataFrame(wordcount)
+    table = pa.Table.from_pandas(df)
     
 # To-Do: Save the wordcount in a Parquet file and read it again!
+
+
+pq.write_table(table, 'outfile.parquet')
+client.upload('/parquet/outfile.parquet','outfile.parquet')
+pq.read_table('outfile.parquet')
+print(pq.read_table('outfile.parquet'))
