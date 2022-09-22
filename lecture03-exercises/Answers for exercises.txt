@@ -1,0 +1,16 @@
+Exercise 01
+1. ZOOKEEPER_CLIENT_PORT is related since it has port number to be connected to Kafka 
+2. KAFKAD_ADVERTISED_LISTENER is the ip address of port connected to Kafka
+3. Kowl is accessed by typing in the port number on localhost.
+4. docker compose up -d pulls the images of the Kafka cluster, which is then run in the 
+background.
+Exercise 02
+Brokers view.
+1. Brokers view shows Controller id, broker count & version of Kafka, which are the fields
+ of the schema.
+2. log retention hours shows 7 days.
+3. Offset.topic.replication.factor shows 1 currently & default is 3.
+Topics view
+1. shows the Topic table with topics & partitions, the fields are name, partition, replicas,
+cleanup policy & size.
+

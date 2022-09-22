@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78e699ae-ee73-402f-9e81-26c5faf77654" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lecture02/parquet-word-count/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture02/parquet-word-count/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture03-exercises/alice-in-kafkaland-consumer/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture03-exercises/alice-in-kafkaland-consumer/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture03-exercises/alice-in-kafkaland-producer/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture03-exercises/alice-in-kafkaland-producer/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture03-exercises/consumer-client/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture03-exercises/consumer-client/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture03-exercises/producer-client/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture03-exercises/producer-client/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +15,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/lecture02/parquet-word-count/example.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
