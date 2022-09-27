@@ -1,4 +1,3 @@
-from debugpy._vendored.pydevd.pydevd_attach_to_process.winappdbg.interactive import readline
 from hdfs import InsecureClient
 from kafka import KafkaProducer
 

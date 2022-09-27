@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78e699ae-ee73-402f-9e81-26c5faf77654" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/alice-in-wonderland.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/clusterPyspark/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/clusterPyspark/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/clusterPyspark/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/clusterPyspark/run.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/hadoop.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/lecture04-exercises.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/localPyspark/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/localPyspark/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/localPyspark/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/localPyspark/run.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/pipeline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentenceSplitter/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentenceSplitter/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentenceSplitter/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentenceSplitter/run.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExercise/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExercise/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExercise/negativeWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExercise/positiveWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExercise/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExercise/run.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExerciseExtended/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExerciseExtended/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExerciseExtended/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/sentimentExerciseExtended/run.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/wordCounter/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/wordCounter/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/wordCounter/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture04-exercises/wordCounter/run.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture03-exercises/producer-client/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture03-exercises/producer-client/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture03-exercises/alice-in-kafkaland-producer/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture03-exercises/alice-in-kafkaland-producer/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
