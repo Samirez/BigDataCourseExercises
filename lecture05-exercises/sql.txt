@@ -1,0 +1,19 @@
+CREATE TABLE negative_words 
+ 
+AS SELECT word 
+ 
+AS count FROM (SELECT explode(split(word, ',')) AS word FROM negative_words_raw) w
+ 
+GROUP BY word
+ 
+ORDER BY word;
+
+CREATE TABLE positive_words 
+ 
+AS SELECT word 
+ 
+AS count FROM (SELECT explode(split(word, ',')) AS word FROM positive_words_raw) w
+ 
+GROUP BY word
+ 
+ORDER BY word;

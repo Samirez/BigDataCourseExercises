@@ -83,11 +83,7 @@ services:
       
 
   hive-metastore-postgresql:
-    build: 
-      context: ./hive-docker
-      dockerfile: Dockerfile
-    environment:
-      - POSTGRES_HOST_AUTH_METHOD=trust
+    image: bde2020/hive-metastore-postgresql:2.3.0
 
       
   presto-coordinator:
